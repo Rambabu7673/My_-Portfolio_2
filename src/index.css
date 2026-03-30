@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+
+
+body::-webkit-scrollbar{
+display: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+.parent{
+  background-image: url('');
+  background-repeat: no-repeat; 
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  border: solid 2px yellow;
+ ;
+}
+
+.about{
+  background-image: url('https://i.pinimg.com/736x/d1/44/df/d144df31f0177eb8c148f256e1c48134.jpg');
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  background-size: cover;
+}
+/* .nav{
+  padding: 30px;
+} */
+.background{
+  background: linear-gradient(90deg,rgba(61, 155, 42, 0.93) 0%, rgba(148, 139, 21, 1) 52%, rgba(37, 26, 110, 1) 100%)
+}
