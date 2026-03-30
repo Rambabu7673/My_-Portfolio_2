@@ -7,7 +7,7 @@ import { FaPinterestP } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa";
 const Home = () => {
   return (
-    <div className="h-screen lg:h-[89%]   w-full overflow-x-hidden relative bg-[url('https://i.pinimg.com/1200x/13/f1/51/13f1510b5f9b991a367db6e2d46e2d8f.jpg')] bg-cover bg-center bg-no-repeat  ">
+    <div className="h-screen lg:h-[90%]   w-full overflow-x-hidden relative bg-[url('https://i.pinimg.com/1200x/13/f1/51/13f1510b5f9b991a367db6e2d46e2d8f.jpg')] bg-cover bg-center bg-no-repeat  ">
       <div className="max-w-[640px] w-full   text-white absolute top-5 lg:top-10  left-2 right-5 p-6">
         <h1 className=" lg:text-[50px] text-4xl font-bold tracking-wide text-yellow-500">
           It's Me
